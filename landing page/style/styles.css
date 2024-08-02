@@ -16,7 +16,7 @@ body {
     background-color: #f8f9fa; /* Light gray background */
     color: #333; /* Dark text color */
     min-height: 60vh;
-    background-image: url(./images/background.jpg);
+    background-image: url(../images/background.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 600px;
